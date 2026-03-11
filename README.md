@@ -17,7 +17,7 @@
 ## 🛠 Tech Stack
 
 ### 🐍 Languages & Core
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 ### 🤖 AI & Data Science
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Food_Engineering-4CAF50?style=for-the-badge&logo=target&logoColor=white">
