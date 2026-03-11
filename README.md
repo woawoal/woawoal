@@ -31,9 +31,9 @@
 제 성장 기록을 실시간으로 확인하실 수 있습니다!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical" alt="YunJeong's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=woawoal&show_icons=true&theme=radical" alt="YunJeong's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_ID&theme=radical" alt="YunJeong's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woawoal&theme=radical" alt="YunJeong's Streak" />
 </div>
 
 ---
