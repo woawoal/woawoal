@@ -1,4 +1,4 @@
-# 🚀 안녕하세요, 데이터로 세상을 돕고 싶은 지윤정(Ji Yun Jeong)입니다!
+# 🚀 데이터로 세상을 돕고 싶은 지윤정(Ji Yun Jeong)입니다!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Ji%20Yun%20Jeong's%20Lab&fontSize=70" />
