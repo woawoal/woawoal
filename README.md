@@ -5,12 +5,12 @@
 </div>
 
 ## 🔍 About Me
-저는 **식품공학**을 전공하며 기른 치밀한 분석력을 바탕으로, 인공지능 기술을 통해 사회적 사각지대를 해소하고자 하는 **AI 개발자 지망생**입니다. 
+저는 **식품공학**을 전공하며 기른 치밀한 분석력을 바탕으로, 인공지능 기술을 통해 사회적 사각지대를 해소하고자 하는 **미래의 AI 개발자**입니다. 
 
 - 🌱 현재 **AI Human 모델링 프로젝트**에 매진하며 실력을 쌓고 있습니다.
 - 💻 **Python**을 활용한 효율적인 코드 작성과 알고리즘 문제 풀이를 즐깁니다.
 - 🎓 **Seoul Women's University** | Food Engineering 전공
-- 🏢 현재 **AI Academy**에서 인공지능 전문가 과정을 이수 중 (2026.03 ~ 2026.07)
+- 🏢 현재 **ESTSOFT**에서  AI 휴먼(멀티모달, TTS, STT, 프롬프트 엔지니어링, RAG) 이수 중 (2026.03 ~ 2026.07)
 
 ---
 
@@ -39,10 +39,10 @@
 ---
 
 ## 📫 Contact & Connect
-저와 함께 성장하고 소통하실 분들을 환영합니다!
+함께 성장하고 소통하실 분들을 환영합니다!
 
 <div align="left">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:work.yunjeong@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
