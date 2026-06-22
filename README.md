@@ -1,22 +1,10 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   HEADER BANNER                       -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:fc6076,100:ff9a44&height=220&section=header&text=Ji%20Yun%20Jeong&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Vision&descSize=22&descAlignY=60&animation=fadeIn" width="100%"/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  TYPING ANIMATION                     -->
-<!-- ══════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:fc6076,100:ff9a44&height=220&section=header&text=Ji%20Yun%20Jeong&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20ML%20Developer&descSize=22&descAlignY=60&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🌏+%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EC%84%B8%EC%83%81%EC%9D%84+%EB%8F%95%EA%B3%A0+%EC%8B%B6%EC%9D%80+AI+%EA%B0%9C%EB%B0%9C%EC%9E%90;🧪+Food+Engineering+%C3%97+Artificial+Intelligence)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   SNS BADGES                          -->
-<!-- ══════════════════════════════════════════════════════ -->
 
 <a href="mailto:work.yunjeong@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -24,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Seoul%20Women's%20Univ.-8B1A8B?style=flat-square&logo=academia&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ESTSOFT%20AI%20Course-FF6F00?style=flat-square&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESTSOFT%20AI%20Human-FF6F00?style=flat-square&logo=coursera&logoColor=white"/>
 
 <br/><br/>
 
@@ -32,87 +20,88 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   ABOUT ME                            -->
-<!-- ══════════════════════════════════════════════════════ -->
-
 ## 🌟 About Me
 
 ```python
 class JiYunJeong:
     name       = "지윤정 (Ji Yun Jeong)"
     university = "Seoul Women's University 🎓"
-    major      = "Food Engineering → AI Developer 🔬➡️🤖"
+    major      = "Food Engineering → AI/ML Developer 🔬➡️🤖"
     current    = "ESTSOFT AI Human 과정 (2026.03 ~ 2026.07)"
-    keywords   = ["Multimodal", "TTS/STT", "Prompt Engineering", "RAG"]
+    focus      = ["Model Fine-tuning", "LLM / RAG", "Data-centric ML"]
     goal       = "AI로 사회적 사각지대를 해소하는 개발자"
 
     def say_hello(self):
-        return "가장 현대적인 도구로 가장 보편적인 가치를 실천하겠습니다 🚀"
+        return "데이터로 모델의 정확도와 신뢰성을 끌어올립니다 🚀"
 ```
 
-<br/>
-
-> 🧪 **식품공학**의 치밀한 분석력  ×  🤖 **인공지능** 기술
-> → 사회적 가치를 만드는 AI 솔루션을 설계합니다.
-
-- 🔥 **AI Human 모델링 프로젝트** 진행 중
-- 💡 **Multimodal · TTS · STT · Prompt Engineering · RAG** 집중 이수
-- 🐍 **Python** 기반 알고리즘 & 효율적 코드 작성에 열정적
+> 🧪 **식품공학**의 치밀한 분석력 × 🤖 **AI/ML** 기술
+> → 데이터로 문제의 근본 원인을 파고드는 개발자입니다.
 
 ---
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   TECH STACK                          -->
-<!-- ══════════════════════════════════════════════════════ -->
+## 🚀 Projects
+
+### 🤖 NodeVelture — LLM 기반 PERSO AI 답변 기능
+> 🏆 **이스트소프트 장려상** · 팀장 & 백엔드 리드
+
+- OpenAI·Gemini·Groq **멀티 프로바이더 폴백 체인 + API 키 순환**을 LangChain 없이 직접 구현 (장애·요금 한도에도 끊기지 않는 응답)
+- 장기기억·검수·문체 **RAG 3종** 설계 → 페르소나 일관성 유지
+- 검수 결과를 화면에 노출해 **사용자가 AI 동작을 직접 확인**
+- 자체채점을 배제한 **독립 평가**로 성능을 객관적 수치로 검증
+
+`FastAPI` `OpenAI / Gemini / Groq` `RAG` `PostgreSQL` `Redis` `Docker` `GCP`
+
+🔗 **[github.com/woawoal/NodeVelture](https://github.com/woawoal/NodeVelture)**
+
+<br/>
+
+### 📨 SchoolBridge — 다문화 가정통신문 AI 변환 서비스
+> KoELECTRA 문장 추출 모델(Model A) 담당
+
+- 학부모가 해야 할 일을 자동 추출하는 **KoELECTRA 분류기 직접 재학습**
+- 성능이 막히자 데이터를 전수조사 → **'데이터 공백'** 진단, 취약 패턴 448개 증강 후 재학습
+- 핵심 문장 **재현율 0.76 → 0.87** (오탐은 늘리지 않음)
+- FastAPI 추론 API + HuggingFace Hub로 모델 배포·관리
+
+`PyTorch` `HuggingFace` `KoELECTRA` `FastAPI` `scikit-learn`
+
+🔗 **[github.com/woawoal/SchoolBridge](https://github.com/woawoal/SchoolBridge)**
+
+---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Languages
-
+**Language**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 AI / ML / Data
-
+**AI / ML**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### 🧰 Tools
+**Backend / Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                 ROADMAP / JOURNEY                     -->
-<!-- ══════════════════════════════════════════════════════ -->
+## 📜 Certificates & Education
 
-## 🗺️ My Learning Journey
-
-```
-🎓 Seoul Women's Univ.          🔬 Food Engineering 전공
-        │
-        ▼
-🌱 AI 입문                      Python · 알고리즘 · 수학
-        │
-        ▼
-🤖 ESTSOFT AI Human 과정        Multimodal · TTS · STT
-  (2026.03 ~ 2026.07)      Prompt Engineering · RAG
-        │
-        ▼
-🚀 목표: AI로 사각지대 해소하는 개발자
-```
+- 🏅 **COS PRO Python 2급** (994/1000) · YBM, 2025.12
+- 🎓 **ESTSOFT AI Human 과정** — Multimodal · TTS/STT · Prompt Engineering · RAG (2026.03~07)
+- ☁️ **DevSecOps 클라우드 보안 전문가**(산대특) — AWS · 보안 인프라
 
 ---
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                        -->
-<!-- ══════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -122,43 +111,9 @@ class JiYunJeong:
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woawoal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6a11cb&text_color=c9d1d9&border_radius=12" height="165"/>
 
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=woawoal&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=fc6076&currStreakLabel=ff9a44&border_radius=12" height="165"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=woawoal&bg_color=0d1117&color=6a11cb&line=fc6076&point=ff9a44&area=true&hide_border=true" width="95%"/>
-
 </div>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--               CURRENTLY STUDYING                      -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-## 📚 Currently Deep-Diving
-
-<div align="center">
-
-| 🔍 분야 | 📖 학습 내용 | 🎯 목표 |
-|:---:|:---|:---:|
-| 🎙️ **TTS / STT** | 음성 합성 & 인식 모델 | 서비스 적용 |
-| 🖼️ **Multimodal** | 이미지 + 텍스트 통합 AI | AI Human 구현 |
-| 🧠 **Prompt Engineering** | 고품질 프롬프트 설계 | LLM 제어 마스터 |
-| 📦 **RAG** | 검색 증강 생성 파이프라인 | 지식 기반 챗봇 |
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                  PROFILE VIEWS                        -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-## 📫 Contact
 
 <div align="center">
 
@@ -166,23 +121,9 @@ class JiYunJeong:
   <img src="https://img.shields.io/badge/📧 work.yunjeong@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                 PROFILE VIEW COUNTER                  -->
-<!-- ══════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=woawoal&color=6a11cb&style=flat-square&label=Profile+Views)
-
 <br/>
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--                   FOOTER BANNER                       -->
-<!-- ══════════════════════════════════════════════════════ -->
+![Profile Views](https://komarev.com/ghpvc/?username=woawoal&color=6a11cb&style=flat-square&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a44,50:fc6076,100:6a11cb&height=120&section=footer&animation=fadeIn" width="100%"/>
 
